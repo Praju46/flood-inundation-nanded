@@ -67,7 +67,7 @@ patterns across the landscape.
 
 ## Tools & Technologies
 
-- 2D Rain-on-Grid hydrodynamic modelling framework
+- 2D Rain-on-Grid HEC-RAS hydrodynamic modelling framework
 - ArcGIS / QGIS
 - Python
 - Remote sensing and GIS techniques
